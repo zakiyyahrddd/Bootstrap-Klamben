@@ -1,2 +1,2 @@
 # Bootstrap-Klamben
-Implementing UI/UX design from Klamben use html5, css3, and bootstrap v.5
+Implementing UI/UX design from Klamben use html5, css3 with bootstrap v.5 and javascript plugin.
